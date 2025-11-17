@@ -10,3 +10,10 @@ pkg update && pkg upgrade
 ```bash
 pkg install openssh
 ```
+
+2. **Set Password for SSH**
+```bash
+passwd
+```
+
+3. 
