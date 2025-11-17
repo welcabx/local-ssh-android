@@ -21,3 +21,16 @@ passwd
 sshd
 ```
 > By default, it listens on port **8022**
+
+4. **Get your Android's local IP and user ID**
+Local IP:
+```bash
+ifconfig
+```
+> Your device local IP is after the 'inet' and starts with '192.168.xx.xx'
+
+user ID:
+```bash
+whoami
+```
+> It starts with 'u0_axxx'
