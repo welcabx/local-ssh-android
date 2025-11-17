@@ -34,3 +34,8 @@ user ID:
 whoami
 ```
 > It starts with 'u0_axxx'
+
+5. **SSH from your Laptop or PC**
+```bash
+ssh -p 8022 *userID*@*AndroidIP*
+```
