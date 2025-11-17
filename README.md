@@ -39,3 +39,9 @@ whoami
 ```bash
 ssh -p 8022 *userID*@*AndroidIP*
 ```
+> Enter the ssh password your created before on your Android.
+
+**You should see a 'Welcome to Termux' screen once you successfully SSH to your Android!**
+
+### Support
+If you find this useful, Don't forget to star the repo!
