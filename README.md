@@ -16,4 +16,8 @@ pkg install openssh
 passwd
 ```
 
-3. 
+3. **Start the SSH Server**
+```bash
+sshd
+```
+> By default, it listens on port **8022**
