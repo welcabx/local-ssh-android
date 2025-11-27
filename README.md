@@ -20,7 +20,7 @@ pkg install openssh
 ```bash
 passwd
 ```
-
+<br/>
 3. **Start the SSH Server**
 ```bash
 sshd
