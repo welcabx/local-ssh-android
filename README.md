@@ -4,6 +4,8 @@ Turn your Android device to a local SSH server using *Termux*. This is my person
 > [!NOTE]
 > Termux should be already installed on your Android.
 
+<br/><br/>
+
 1. **Install Termux Packages and OpenSSH**
 ```bash
 pkg update && pkg upgrade
